@@ -18,7 +18,7 @@ get_header();
                 <p><a class="more" href="#"><i class="icon-check fas fa-angle-right"></i>Saiba mais</a></p>
             </div>
             <div class="grid-7 post-right">
-                <h4>Objetivos da Qualidade</h4>
+                <h4>Objetivos da Qualidade - TESTE</h4>
                 <div class="row">
                     <i class="icon fas fa-check">
                         <div class="descricao">
