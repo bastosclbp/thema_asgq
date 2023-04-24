@@ -1,5 +1,5 @@
 
-![Logo](https://www2.fab.mil.br/asocea/cms/wp-content/themes/cleanr/images/don_asocea_shadow_site_logo.png)
+![Logo](https://live.staticflickr.com/8306/7744817174_3d899cdfd9_c.jpg)
 
 # Tema criado para o site da ASOCEA.
 
