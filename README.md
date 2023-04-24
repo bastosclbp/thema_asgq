@@ -2,7 +2,7 @@
   <img width="200" height="200" src="https://i.imgur.com/bQ7W8wx.png">
 </p>
 
-# Tema criado para o site da Assessoria de Segurança Operacional do Controle do Espaço Aéreo (ASOCEA).
+# Tema criado para o site da Assessoria de Segurança Operacional do Controle do Espaço Aéreo (ASOCEA)
 
 Este tema foi criado para à Assessoria do Sistema de Gestão da Qualidade da ASOCEA.
 
