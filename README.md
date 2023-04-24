@@ -1,5 +1,6 @@
-
-![Logo](https://live.staticflickr.com/8306/7744817174_3d899cdfd9_c.jpg)
+<p align="center">
+  <img width="200" height="200" src="https://i.imgur.com/bQ7W8wx.png">
+</p>
 
 # Tema criado para o site da ASOCEA.
 
